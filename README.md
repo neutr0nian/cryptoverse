@@ -1,4 +1,4 @@
-# Cryptoverse - An react app for cryptocurrencies.
+# Cryptoverse - A react application for cryptocurrencies.
 
 This application views details and information for all cryptocurrencies in the world. Available with the features like search currency, news about cryptocurrencies and track prices of a coin.
 
