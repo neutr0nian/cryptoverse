@@ -3,13 +3,13 @@ import { createApi, fetchBaseQuery } from "@reduxjs/toolkit/query/react";
 console.log("key", process.env.REACT_APP_API_KEY);
 const cryptoApiHeaders = {
   "X-RapidAPI-Key": process.env.REACT_APP_API_KEY,
-  "X-RapidAPI-Host": process.env.REACT_APP_API_HOST,
+  "X-RapidAPI-Host": process.env.REACT_APP_CRYPTO_API_HOST,
 };
 
 const cryptoNewsHeaders = {
   "X-BingApis-SDK": "true",
   "X-RapidAPI-Key": process.env.REACT_APP_API_KEY,
-  "X-RapidAPI-Host": process.env.REACT_APP_API_HOST,
+  "X-RapidAPI-Host": process.env.REACT_APP_NEWS_API_HOST,
 };
 
 const cryptoUrl = "https://coinranking1.p.rapidapi.com/";
