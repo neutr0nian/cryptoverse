@@ -10,6 +10,7 @@ This application specially demonstrates the usage of:
 2. Redux toolkit
 3. Ant Design
 4. Rapid API
+5. React chart JS
 
 ![My Image](screenshots/currencies.png)
 ![My Image](screenshots/details.png)
