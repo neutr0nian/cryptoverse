@@ -2,6 +2,8 @@
 
 This application views details and information for all cryptocurrencies in the world. Available with the features like search currency, news about cryptocurrencies and track prices of a coin.
 
+![My Image](screenshots/Home.png)
+
 This application specially demonstrates the usage of:
 
 1. React router
@@ -9,7 +11,12 @@ This application specially demonstrates the usage of:
 3. Ant Design
 4. Rapid API
 
+![My Image](screenshots/currencies.png)
+![My Image](screenshots/details.png)
+![My Image](screenshots/news.png)
+
 ## Steps to run
+
 1. Clone the repository
 2. Run npm install
 3. Login to rapidapi.com. Search for coinranking and bing news search API and subscribe to them.
